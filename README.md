@@ -1,2 +1,4 @@
 # ProgrammingFundamentals
-semester one resource files, data, class assignments 
+this is my frist semester programming fundamental repostry
+contaning assignments 
+
